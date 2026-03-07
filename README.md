@@ -100,21 +100,28 @@ Analyse des produits
 Analyse par pays
 
 Page de data storytelling
+
 ##
 
 images/
 Home page :
 
 <img width="1940" height="1090" alt="Capture d’écran 2026-03-07 232410" src="https://github.com/user-attachments/assets/984e80de-6e79-48bf-a6bc-4acaafca5438" />
+
 ##
+
 Dashboards :
 
 <img width="1944" height="1092" alt="Capture d’écran 2026-03-07 233011" src="https://github.com/user-attachments/assets/66e8bce9-830a-4bff-8156-c81c8b813eef" />
+
 ##
+
 Data storytelling :
 
 <img width="1941" height="1092" alt="Capture d’écran 2026-03-07 231259" src="https://github.com/user-attachments/assets/4bbe3871-c6cb-46d5-bbf8-7c48de1ec972" />
+
 ##
+
 README.md
 🚀 Résultat du projet
 
