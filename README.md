@@ -1,4 +1,5 @@
 📊 NovaStream – Analyse de Performance E-commerce (Europe 2024)
+
 📌 Présentation du projet
 
 Ce projet consiste en une analyse de données et la création d’un tableau de bord interactif pour NovaStream, une entreprise fictive de e-commerce spécialisée dans la vente d’électronique, d’accessoires et de mobilier en Europe.
@@ -6,7 +7,9 @@ Ce projet consiste en une analyse de données et la création d’un tableau de 
 L’objectif est de transformer des données transactionnelles brutes en indicateurs décisionnels afin d’identifier les tendances de vente, les produits les plus performants et les marchés les plus dynamiques.
 
 Le résultat final est un dashboard Power BI interactif permettant d’explorer les performances commerciales de l’entreprise.
+
 ##
+
 🎯 Objectifs business
 
 L’analyse vise à répondre à plusieurs questions clés :
@@ -28,7 +31,9 @@ Italie
 Espagne
 
 Analyse produit : déterminer les catégories et produits qui contribuent le plus aux ventes.
+
 ##
+
 🛠 Outils et technologies utilisés
 
 Power BI Desktop (visualisation et dashboard)
@@ -36,6 +41,7 @@ Power BI Desktop (visualisation et dashboard)
 Power Query (préparation et nettoyage des données)
 
 DAX (création de colonnes calculées et mesures)
+
 ##
 
 🔧 Préparation des données
@@ -53,6 +59,7 @@ création d’une colonne calculée Total Price
 création de variables temporelles pour l’analyse mensuelle des ventes
 
 Ces transformations ont permis d’obtenir un jeu de données propre et exploitable pour l’analyse.
+
 ##
 
 📈 Enseignements clés (Insights)
@@ -67,12 +74,15 @@ Le Headset (casque audio) est le produit le plus vendu avec plus de 60 unités, 
 🛒 Performance des catégories
 
 La catégorie Accessoires représente la plus grande part des unités vendues, ce qui indique une forte rotation sur ces produits.
+
 ##
 
 🌍 Performance régionale
 
 La Belgique et la France présentent une forte activité sur la catégorie accessoires, ce qui en fait des marchés stratégiques pour ce segment.
+
 ##
+
 📊 Fonctionnalités du dashboard
 
 Le tableau de bord permet d’explorer :
@@ -86,7 +96,9 @@ les produits les plus vendus
 la performance par pays
 
 des filtres interactifs pour analyser les données par marché
+
 ##
+
 🖼 Aperçu du dashboard
 
 <img width="1944" height="1092" alt="Capture d’écran 2026-03-07 233011" src="https://github.com/user-attachments/assets/3d6a3ac6-c2e1-43f1-93b5-d2cc0df79c8d" />
@@ -136,7 +148,4 @@ les marchés les plus performants
 Ces informations peuvent aider une entreprise à optimiser ses décisions commerciales et marketing.
 
 ✍️ Auteur
-
-Amir (El_pacino_dz)
-Data Analyst en reconversion
-Power BI • Data Visualisation • Analyse de données
+Zid Ahmed Moundji aka (El_pacino_dz)
