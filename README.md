@@ -101,7 +101,8 @@ des filtres interactifs pour analyser les données par marché
 
 🖼 Aperçu du dashboard
 
-<img width="1944" height="1092" alt="Capture d’écran 2026-03-07 233011" src="https://github.com/user-attachments/assets/3d6a3ac6-c2e1-43f1-93b5-d2cc0df79c8d" />
+<img width="1287" height="1168" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/7e9b73af-cfa5-4da3-bb2f-4f04ae69696e" />
+
 
 Exemples :
 
@@ -118,19 +119,22 @@ Page de data storytelling
 images/
 Home page :
 
-<img width="1940" height="1090" alt="Capture d’écran 2026-03-07 232410" src="https://github.com/user-attachments/assets/984e80de-6e79-48bf-a6bc-4acaafca5438" />
+<img width="2079" height="1163" alt="Capture d’écran 2026-03-24 165852" src="https://github.com/user-attachments/assets/8fed370b-b3a1-4200-ae05-619b0bd8e300" />
+
 
 ##
 
 Dashboards :
 
-<img width="1944" height="1092" alt="Capture d’écran 2026-03-07 233011" src="https://github.com/user-attachments/assets/66e8bce9-830a-4bff-8156-c81c8b813eef" />
+<img width="1287" height="1168" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/02e1423b-6ba9-4c80-9a52-cc740a3a2404" />
+
 
 ##
 
 Data storytelling :
 
-<img width="1941" height="1092" alt="Capture d’écran 2026-03-07 231259" src="https://github.com/user-attachments/assets/4bbe3871-c6cb-46d5-bbf8-7c48de1ec972" />
+<img width="2079" height="1167" alt="Capture d’écran 2026-03-24 165812" src="https://github.com/user-attachments/assets/6d2045f9-2e0b-450f-b603-ff98bd7dd0fe" />
+
 
 ##
 
