@@ -101,8 +101,7 @@ des filtres interactifs pour analyser les données par marché
 
 🖼 Aperçu du dashboard
 
-<img width="1287" height="1168" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/7e9b73af-cfa5-4da3-bb2f-4f04ae69696e" />
-
+<img width="1290" height="1167" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/97e815e2-4bf1-40a1-8678-a36c58215ecb" />
 
 Exemples :
 
@@ -126,8 +125,7 @@ Home page :
 
 Dashboards :
 
-<img width="1287" height="1168" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/02e1423b-6ba9-4c80-9a52-cc740a3a2404" />
-
+<img width="1290" height="1167" alt="Capture d’écran 2026-03-24 163530" src="https://github.com/user-attachments/assets/21ad089e-b814-4234-acb9-b9de98d66a29" />
 
 ##
 
