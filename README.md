@@ -133,8 +133,7 @@ Dashboards :
 
 Data storytelling :
 
-<img width="2079" height="1167" alt="Capture d’écran 2026-03-24 165812" src="https://github.com/user-attachments/assets/6d2045f9-2e0b-450f-b603-ff98bd7dd0fe" />
-
+<img width="1941" height="1090" alt="Capture d’écran 2026-03-24 170551" src="https://github.com/user-attachments/assets/4dffeacb-8d35-434d-a8b6-c4a89bf62277" />
 
 ##
 
